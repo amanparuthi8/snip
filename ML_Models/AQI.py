@@ -1,4 +1,4 @@
-"""predicting AQI through traffic,upcoming public events, using 
+"""Predicting AQI through traffic,upcoming public events, using 
     Logistic Regression,
     Random forest,
     Support Vector Machine (SVM),
