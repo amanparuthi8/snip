@@ -1,0 +1,7 @@
+The lazy fox jumps over the sleeping rabbit. The lazy rabbit doesn't wake up.
+
+15/08/2024,  Thu	1532	Creambell	15,993.00	Pending
+14/08/2024,  Wed	1533	Coke Shiva 	32,575.00	Pending
+16/08/2024,  Fri	1534	Pepsi	27,845.00	Pending
+12/08/2024,  Mon	1535	Banga 	19,584.00	Pending
+18/08/2024,  Sun	1536	Coke Shiva 	30,000.00	Pending
